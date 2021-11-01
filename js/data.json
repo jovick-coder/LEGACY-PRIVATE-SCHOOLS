@@ -1,0 +1,74 @@
+{
+    "faq":[
+        {
+        "id":1,
+        "question":  "How to get registed",
+        "answer":"you just need to go the madalla"
+    },
+        {
+        "id":2,
+        "question":  "Qestion2",
+        "answer":"my name is victor"
+    },
+        {
+        "id":3,
+        "question":  "Qestion3",
+        "answer":"my name is victor"
+    },
+        {
+        "id":4,
+        "question":  "Qestion4",
+        "answer":"my name is victor"
+    },
+        {
+        "id":5,
+        "question":  "Qestion5",
+        "answer":"my name is victor"
+    },
+        {
+        "id":6,
+        "question":  "Qestion6",
+        "answer":"my name is victor"
+    },
+        {
+        "id":7,
+        "question":  "Qestion7",
+        "answer":"my name is victor"
+    },
+        {
+        "id":8,
+        "question":  "Qestion8",
+        "answer":"my name is victor"
+    },
+        {
+        "id":9,
+        "question":  "Qestion9",
+        "answer":"my name is victor"
+    },
+        {
+        "id":10,
+        "question":  "Qestion10",
+        "answer":"my name is victor"
+    }
+], 
+"courses":[
+    {
+        "id": "1",
+        "title":"courseName1",
+        "subTitle" :"Subtitle1",
+        "discribsion": "courses discribsion"
+    },
+    {
+        "id": "2",
+        "title":"courseName2",
+        "subTitle" :"Subtitle2",
+        "discribsion": "courses discribsion"
+    },
+    {
+        "id": "3",
+        "title":"courseName3S",
+        "subTitle" :"Subtitle3",
+        "discribsion": "courses discribsion"
+    }
+]
+}
